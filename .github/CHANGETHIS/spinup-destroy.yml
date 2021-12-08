@@ -13,7 +13,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: donaldli2020
+  AZURE_WEBAPP_NAME: donaldli2020-ttt-app
   #################################################
 
 jobs:
